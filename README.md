@@ -53,6 +53,15 @@ Ensure you have Python 3.x installed. Then install OpenCV:
 pip install opencv-python numpy
 
 ```
+
+## 🔧 For GUI Install Required Libraries
+Before running the script, make sure you have all the required Python libraries installed:
+
+```bash
+pip install opencv-python numpy cryptography pillow
+pip install opencv-python numpy cryptography pillow tkinter
+
+```
     
 ## 🛠 Usage
 
