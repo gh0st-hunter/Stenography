@@ -1,5 +1,6 @@
 
-## 🔒 Image-Based Steganography
+## 🔒 Steganography 
+### Overview
 
 
 A Python script that hides secret messages inside images using image steganography.
